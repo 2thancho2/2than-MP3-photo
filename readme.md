@@ -11,14 +11,9 @@
 - [데모 및 미리보기](#-데모-및-미리보기-demo--preview)
 - [기술 스택](#-기술-스택-tech-stack)
 - [시작하기](#-시작하기-getting-started)
-- [환경 변수 설정](#-환경-변수-설정-environment-variables)
 - [사용 방법 및 명령어](#-사용-방법-및-명령어-usage--commands)
-- [API 명세서](#-api-명세서-api-specification)
 - [로드맵 및 추후 계획](#-로드맵-및-추후-계획-roadmap)
-- [트러블슈팅 및 성능 개선](#-트러블슈팅-및-성능-개선-troubleshooting)
-- [기여 방법](#-기여-방법-contributing)
 - [팀원 소개 및 역할](#-팀원-소개-및-역할-team--roles)
-- [라이선스](#-라이선스-license)
 - [문의 및 피드백](#-문의-및-피드백-contact--feedback)
 
 ---
